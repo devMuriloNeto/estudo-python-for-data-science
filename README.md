@@ -1,1 +1,1 @@
-# python for data science
+# Curso de Python para Data Science - SENAI 
